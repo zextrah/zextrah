@@ -18,7 +18,8 @@
 <br>
 
 - A passionate self-taught front-end developer.
-- Creating a FiveM server running on ESX Framework for personal development.
+- Creating a FiveM server running on QBCore Framework for personal development.
+- Creating a Roblox gaming community with LUA.
 - Currently studing Web & Software Development
 - Personal website [link](https://zextrah.com)
 
